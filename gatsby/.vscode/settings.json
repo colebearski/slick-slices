@@ -23,4 +23,12 @@
     "javascript",
     "javascriptreact"
   ],
+
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascript, html",
+    "vue-html": "html",
+    "php": "html",
+    "blade": "html",
+  }
 }
